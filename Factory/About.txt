@@ -1,0 +1,9 @@
+﻿Metoda wytwórcza // Fabryka
+
+Obiekt fabryki odpowiedzialny jest za tworzenie nowych obiektów o wspólnym interfejsie. Zwraca obiekt danego interfejsu.
+
+-rozszerzalność - prosta rozbudowa fabryki i dodawanie nowych elementów do niej
+-zakulisowe tworzenie obiektu wraz z zależnościami, a więc wsparcie hermetyzacji
+-przydatne, gdy w skład fabryki wchodzą kosztowne obiekty (potrzebne do produkcji obiektów). Tworzy się je raz i używa wielokrotnie
+
+https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
