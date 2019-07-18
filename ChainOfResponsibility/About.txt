@@ -1,0 +1,8 @@
+﻿Łańcuch zobowiązań
+
+Klasa zarządzająca przekazuje żądanie do pierwszego obiektu, a ten propaguje je dalej, jeżeli nie jest w stanie przetworzyć.
+
+-gdy nie można ustalić zależności w czasie kompilacji, tzn. to który element powinien obsłużyć żadanie, bo to zależy od poewnych warunków z run-time
+-odbiorcy mogę być podani w run-time
+-brak gwarancji obsługi żądania
+-trudniejsze do debugowania
