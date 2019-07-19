@@ -1,0 +1,6 @@
+﻿Polecenie
+
+
+
+-kiedy potrzebujemy historii wykonanych poleceń
+-możliwość cofnięcia polecenia
